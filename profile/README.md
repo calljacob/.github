@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Welcome to the CallJacob GitHub Org 👋</h1>
+  <h1>Welcome to the CallJacob on Github 👋</h1>
   <p><i>Building innovative solutions, robust tooling, and open-source projects.</i></p>
 
   <!-- Quick Link Badges (Update href links to your actual profiles) -->
