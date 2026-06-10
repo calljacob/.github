@@ -7,7 +7,7 @@
   <a href="https://calljacob.com">
     <img src="https://img.shields.io/badge/Website-CallJacob-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://twitter.com/calljacob">
+  <a href="ttps://x.com/JacobEmrani">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
 </div>
