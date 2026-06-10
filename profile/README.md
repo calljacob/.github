@@ -4,7 +4,7 @@
   <p><i>Building innovative solutions, robust tooling, and open-source projects.</i></p>
 
   <!-- Quick Link Badges (Update href links to your actual profiles) -->
-  <a href="https://calljacob.com">
+  <a href="https://www.calljacob.com">
     <img src="https://img.shields.io/badge/Website-CallJacob-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
