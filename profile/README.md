@@ -37,8 +37,8 @@ Stay in the loop with our latest updates, tech deep-dives, and community events:
 | :--- | :--- |
 | 🌍 **Website** | [calljacob.com](https://calljacob.com) |
 | 🐦 **X (Twitter)** | [@CallJacob](https://twitter.com/calljacob) |
-| 💼 **LinkedIn** | [CallJacob on LinkedIn](https://linkedin.com/company/calljacob) |
-| 📸 **Instagram** | [@CallJacob](https://instagram.com/calljacob) |
+| 💼 **LinkedIn** | [CallJacob on LinkedIn](https://www.linkedin.com/company/law-offices-of-jacob-emrani/) |
+| 📸 **Instagram** | [@CallJacob](https://instagram.com/call.jacob) |
 | 📧 **Contact** | [info@calljacob.com](mailto:info@calljacob.com) |
 
 ## 🤝 Contributing
