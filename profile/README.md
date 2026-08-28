@@ -4,7 +4,7 @@
   <p><i>Building innovative solutions, robust tooling, and open-source projects.</i></p>
 
   <!-- Quick Link Badges (Update href links to your actual profiles) -->
-  <a href="https://www.calljacob.com">
+  <a href="https://www.calljacob.com?utm_source=github">
     <img src="https://img.shields.io/badge/Website-CallJacob-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
@@ -32,10 +32,10 @@ Stay in the loop with our latest updates, tech deep-dives, and community events:
 
 | Platform | Link |
 | :--- | :--- |
-| 🌍 **Website** | [calljacob.com](https://calljacob.com) |
-| 🐦 **X (Twitter)** | [@CallJacob](https://x.com/JacobEmrani) |
-| 💼 **LinkedIn** | [CallJacob on LinkedIn](https://www.linkedin.com/company/law-offices-of-jacob-emrani/) |
-| 📸 **Instagram** | [@CallJacob](https://instagram.com/call.jacob) |
+| 🌍 **Website** | [calljacob.com](https://calljacob.com?utm_source=github) |
+| 🐦 **X (Twitter)** | [@CallJacob](https://x.com/JacobEmrani?utm_source=github) |
+| 💼 **LinkedIn** | [CallJacob on LinkedIn](https://www.linkedin.com/company/law-offices-of-jacob-emrani/?utm_source=github) |
+| 📸 **Instagram** | [@CallJacob](https://instagram.com/call.jacob?utm_source=github) |
 | 📧 **Contact** | [info@calljacob.com](mailto:info@calljacob.com) |
 
 ## 🤝 Contributing
